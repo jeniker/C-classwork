@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (void)  /* program to add the digits of a number to get teh digitsum */
+int main (void)  /* program to add the digits of a number to get the digitsum */
 
 {
   int number = 0;  /* initializes variables */
